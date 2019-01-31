@@ -1,6 +1,7 @@
 require 'date'
 class WordFinder
-
+ 
+ 
 def self.word_combo(phnumber)
 time_start = Time.now
 final_collection = []
